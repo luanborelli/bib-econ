@@ -1,6 +1,6 @@
-# Bibliografia básica
+# Bibliografia Intermediária
 
-Materiais que incluem tópicos de matemática do ensino médio a terceiro ano da graduação.
+Materiais de nível intermediário.
 
 ## Conteúdo
 
