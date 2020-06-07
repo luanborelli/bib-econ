@@ -4,7 +4,6 @@ Materiais de nível intermediário.
 
 ## Conteúdo
 
-* [A: Economia Geral e Ensino](geral)
 * [B:	História do Pensamento Econômico, Metodologia e Abordagens Heterodoxas](hpe)
 * [C:	Métodos Quantitativos e Matemáticos](matematica)
 * [D:	Microeconomia](microeconomia)
