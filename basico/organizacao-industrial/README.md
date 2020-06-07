@@ -1,1 +1,1 @@
-# L	Organização industrial
+# L:	Organização industrial
