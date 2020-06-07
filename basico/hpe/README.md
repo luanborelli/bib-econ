@@ -1,1 +1,1 @@
-# B	História do Pensamento Econômico, Metodologia e Abordagens Heterodoxas
+# B:	História do Pensamento Econômico, Metodologia e Abordagens Heterodoxas
