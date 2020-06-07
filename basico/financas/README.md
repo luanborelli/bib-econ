@@ -1,1 +1,1 @@
-# G	Finanças
+# G:	Finanças
