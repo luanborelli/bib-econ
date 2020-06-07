@@ -13,4 +13,4 @@ Materiais que incluem tópicos de matemática do ensino médio a terceiro ano da
 * [G	Finanças](financas)
 * [K	Direito e Economia](direito-economia)
 * [L	Organização industrial](organizacao-industrial)
-* [N	História Econômica](historia-economia)
+* [N	História Econômica](historia-economica)
