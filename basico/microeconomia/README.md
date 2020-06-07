@@ -1,3 +1,3 @@
 # D:	Microeconomia
 
-### **Hal Varian, *Microeconomia***
+### Hal Varian, *Microeconomia*
