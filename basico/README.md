@@ -1,4 +1,4 @@
-# Bibliografia básica
+# Bibliografia Básica
 
 Materiais que incluem tópicos de matemática do ensino médio a terceiro ano da graduação.
 
