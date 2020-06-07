@@ -7,7 +7,7 @@ Materiais que incluem tópicos de matemática do ensino médio a terceiro ano da
 * [A: Economia Geral e Ensino](geral)
 * [B:	História do Pensamento Econômico, Metodologia e Abordagens Heterodoxas](hpe)
 * [C:	Métodos Quantitativos e Matemáticos](matematica)
-* [D:	Microeconomia](microeconomia/README.md)
+* [D:	Microeconomia](microeconomia)
 * [E:	Macroeconomia e Economia Monetária](macroeconomia)
 * [F:	Economia Internacional](internacional)
 * [G:	Finanças](financas)
