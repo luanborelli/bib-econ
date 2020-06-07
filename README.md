@@ -14,6 +14,9 @@ Comece a navegar escolhendo um nível:
 * [Intermediário](intermediario/README.md)
 * [Avançado](avancado/README.md)
 
+Outros tipos de materiais úteis e livros não técnicos podem ser encontrados em:
+
+* [Misc](misc)
 
 ## Contribua
 
