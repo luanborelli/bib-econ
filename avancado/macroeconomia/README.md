@@ -6,7 +6,7 @@
 
 ### Daron Acemoglu, *Introduction to Modern Economic Growth*
 
-### David de la Croix, *A Theory of Economic Growth: Dynamics and Policy in Overlapping Generations*
+### David de la Croix & Philippe Michel, *A Theory of Economic Growth: Dynamics and Policy in Overlapping Generations*
 
 ### Robert Barro & Xavier Sala-i-Martin, *Economic Growth*
 
