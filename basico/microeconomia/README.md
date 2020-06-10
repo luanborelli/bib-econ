@@ -8,6 +8,6 @@ O famoso livro de Mankiw, Introdução à economia, pode ser dividido em uma par
 
 Este livro é o primeiro contato mais aprofundado com microeconomia. Apesar disso, o livro não pede um curso de cálculo como pré-requisito. [[AMZN]](https://www.amazon.com.br/Microeconomia-Hal-Varian/dp/8535230181/)
 
-### Robert Pindyck e Daniel Rubinfeld, *Microeconomia*
+### Robert Pindyck & Daniel Rubinfeld, *Microeconomia*
 
 [[AMZN]](https://www.amazon.com.br/Microeconomia-Robert-S-Pindyck/dp/8543000289/)
