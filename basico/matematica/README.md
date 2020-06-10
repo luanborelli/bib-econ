@@ -22,6 +22,7 @@
 
 ## Econometria de Séries Temporais
 
+### Walter Enders, *Applied Econometric Time Series*
 
 ## Matemática para Economistas
 
@@ -31,4 +32,4 @@
 
 ## Probabilidade
 
-### Pau L. Meyer, *Probabilidade - Aplicações à Estatística
+### Pau L. Meyer, *Probabilidade - Aplicações à Estatística*
