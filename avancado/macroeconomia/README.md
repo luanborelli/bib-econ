@@ -10,3 +10,13 @@
 
 ### Robert Barro & Xavier Sala-i-Martin, *Economic Growth*
 
+## Métodos Recursivos
+
+### Lars Ljungqvist & Thomas Sargent, *Recursive Macroeconomic Theory*
+
+[[AMZN]](https://www.amazon.com.br/Recursive-Macroeconomic-Theory-Lars-Ljungqvist/dp/0262018748)
+
+### Nancy Stokey & Robert Lucas com Edward Prescott, *Recursive Methods in Economic Dynamics*
+
+[[AMZN]](https://www.amazon.com.br/Recursive-Methods-Economic-Dynamics-Stokey/dp/0674750969)
+
