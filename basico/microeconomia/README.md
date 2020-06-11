@@ -11,3 +11,11 @@ Este livro é o primeiro contato mais aprofundado com microeconomia. Apesar diss
 ### Robert Pindyck & Daniel Rubinfeld, *Microeconomia*
 
 [[AMZN]](https://www.amazon.com.br/Microeconomia-Robert-S-Pindyck/dp/8543000289/)
+
+
+
+## Teoria dos Jogos
+
+### Ronaldo Fiani, *Teoria dos Jogos*
+
+[[AMZN]](https://www.amazon.com.br/Teoria-dos-Jogos-Ronaldo-Fiani/dp/8535276653)
