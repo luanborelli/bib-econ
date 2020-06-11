@@ -6,6 +6,9 @@ Outros materiais.
 
 ## Conversas e Entrevistas com Economistas
 
+### Arjo Klamer, *Conversations With Economists: New Classical Economists and Opponents Speak Out on the Current Controversy in Macroeconomics*
+Entrevistas com Robert Lucas, Thomas Sargent, Robert Townsend, James Tobin, Robert Solow, Franco Modigliani, Alan Blinder, John Taylor, Karl Brunner, David Gordon e Leonard Rapping.
+
 ### Ciro Biderman, Luis Felipe L. Cozac & José Marcio Rego, *Conversas com Economistas Brasileiros*
 Este é o primeiro de dois volumes de Conversas com Economistas Brasileiros. Neste volume são registradas conversas com os seguintes economistas brasileiros: Roberto Campos, Celso Furtado, Delfim Netto, Conceição Tavares, Bresse Pereira, Mário Henrique Simonsen, Affonso Celso Pastore, Edmar Bacha, Luis Gonzaga Belluzzo, André Lara Resende, Pérsio Arida, P. Nogueira Batista Jr. e Eduardo Giannetti da Fonse.
 
