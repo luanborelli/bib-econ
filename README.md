@@ -6,7 +6,7 @@
 
 ## Conteúdo
 
-O conteúdo é organizado em três níveis: básico, intermediário e avançado e, até o presente momento, em dez categorias de áreas distintas baseadas nas classificações de [códigos JEL](https://www.aeaweb.org/econlit/jelCodes.php?view=jel): Economia Geral e Ensino, História do Pensamento Econômico, Metodologia e Abordagens Heterodoxas, Métodos Quantitativos e Matemáticos, Microeconomia, Macroeconomia e Economia Monetária, Economia Internacional, Finanças, Direito e Economia, Organização industrial e História Econômica.
+O conteúdo é organizado em três níveis: básico, intermediário e avançado e, até o presente momento, em nove categorias de áreas distintas baseadas nas classificações de [códigos JEL](https://www.aeaweb.org/econlit/jelCodes.php?view=jel): História do Pensamento Econômico, Metodologia e Abordagens Heterodoxas, Métodos Quantitativos e Matemáticos, Microeconomia, Macroeconomia e Economia Monetária, Economia Internacional, Finanças, Direito e Economia, Organização industrial e História Econômica.
 
 Comece a navegar escolhendo um nível:
 
