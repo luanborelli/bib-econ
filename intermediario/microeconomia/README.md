@@ -13,3 +13,8 @@
 ### Robert Gibbons, *Game Theory for Applied Economists*
 
 [[AMZN]](https://www.amazon.com.br/Theory-Applied-Economists-Robert-Gibbons/dp/0691003955)
+
+
+### Steven Tadelis, *Game Theory: An Introduction*
+
+[[AMZN]](https://www.amazon.com.br/Game-Theory-Introduction-Steven-Tadelis-ebook/dp/B00AYL194G/)
