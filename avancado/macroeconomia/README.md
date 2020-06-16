@@ -1,5 +1,7 @@
 # E:	Macroeconomia e Economia Monetária
 
+### Macroeconomia Geral
+
 ### Mário Henrique Simonsen, *Dinâmica Macroeconômica*
 
 ## Crescimento Econômico
@@ -9,6 +11,12 @@
 ### David de la Croix & Philippe Michel, *A Theory of Economic Growth: Dynamics and Policy in Overlapping Generations*
 
 ### Robert Barro & Xavier Sala-i-Martin, *Economic Growth*
+
+## Economia Aberta
+
+### G. C. Lim & Paul Mcnelis, *Computational Macroeconomics for the Open Economy*
+
+[[AMZN]](https://www.amazon.com.br/Computational-Macroeconomics-Open-Economy-Lim/dp/0262123061/)
 
 ## Métodos Recursivos
 
