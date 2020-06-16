@@ -14,6 +14,18 @@
 ### Hamilton Luiz Guidorizzi, *Um Curso de Cálculo: volume 3*
 ### Hamilton Luiz Guidorizzi, *Um Curso de Cálculo: volume 4*
 
+## Análise
+
+### Daniel J. Velleman, *How to Prove It: A Structured Approach*
+[[AMZN]](https://www.amazon.com.br/How-Prove-Structured-Daniel-Velleman/dp/1108439535/)
+### Gary Chartrand, Albert D. Polimeni & Ping Zhang, *Mathematical Proofs: A Transition to Advanced Mathematics*
+[[AMZN]](https://www.amazon.com.br/Mathematical-Proofs-International-Transition-Mathematics-ebook/dp/B00IZ0L5II/)
+### Lara Alcock, *How to Think About Analysis*
+[[AMZN]](https://www.amazon.com.br/How-Think-About-Analysis-English-ebook/dp/B00O94K6NO/)
+### Stephen Abbott, *Understanding Analysis*
+[[AMZN]](https://www.amazon.com.br/Understanding-Analysis-Undergraduate-Mathematics-English-ebook/dp/B00XWDQUH4/)
+
+
 ## Econometria Geral
 
 ### Damodar N. Gujarati & Dawn C. Porter, *Econometria Básica*
