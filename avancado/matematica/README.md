@@ -9,7 +9,12 @@
 ## Análise
 
 ### A. N. Kolmogorov, *Introductory Real Analysis*
+
 ### Efe A. Ok, *Real Analysis with Economic Applications*
+
+### Elon Lages Lima, *Curso de Análise Vol. 2*
+
+[[LINK]](https://loja.sbm.org.br/index.php/curso-de-analise-vol-2.html)
 
 ## Outros
 
