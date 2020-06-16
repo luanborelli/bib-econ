@@ -10,6 +10,10 @@
 
 [[AMZN]](https://www.amazon.com.br/Microeconomic-Foundations-Choice-Competitive-Markets/dp/0691155836)
 
+### Hal R. Varian, *Microeconomic Analysis*
+
+[[AMZN]](https://www.amazon.com.br/Microeconomic-Analysis-Hal-R-Varian/dp/0393957357/)
+
 ## Teoria dos Jogos
 
 ### Ariel Rubinstein & Martin Osborne, *A Course in Game Theory*
