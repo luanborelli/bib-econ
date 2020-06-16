@@ -30,4 +30,9 @@ O famoso livro de Mankiw, Introdução à economia, pode ser dividido em uma par
 ### David Weil, *Economic Growth*
 ### Charles Jones & Dietrich Vollrath, *Introdução à Teoria do Crescimento Econômico*
 
+## DSGE
+
+### Celso Jose Costa Junior, *Understanding DSGE models: Theory and Applications*
+
+[[AMZN]](https://www.amazon.com.br/Understanding-DSGE-models-Theory-Applications/dp/1622730380/)
 
