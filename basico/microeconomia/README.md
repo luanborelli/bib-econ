@@ -16,10 +16,6 @@ Este livro é o primeiro contato mais aprofundado com microeconomia. Apesar diss
 
 ## Teoria dos Jogos
 
-### Joel Watson, *Strategy: An Introduction to Game Theory*
-
-[[AMZN]](https://www.amazon.com.br/Strategy-Introduction-Theory-Joel-Watson/dp/0393918386/)
-
 ### Ronaldo Fiani, *Teoria dos Jogos*
 
 [[AMZN]](https://www.amazon.com.br/Teoria-dos-Jogos-Ronaldo-Fiani/dp/8535276653)
