@@ -1,5 +1,9 @@
 # D:	Microeconomia
 
+### Aloisio Araujo, "Introdução à Economia Matemtica*
+
+[[LINK]](https://www.google.com/url?sa=t&source=web&rct=j&url=https://impa.br/wp-content/uploads/2017/04/PM_08.pdf&ved=2ahUKEwj8_56JwYbqAhUOILkGHfPlC84QFjAAegQIARAB&usg=AOvVaw0qpWrD6K9d8N7ytFRo2aXh)
+
 ### Andreu Mas-colell, Michael Whinston & Jerry Green, *Microeconomic Theory*
 
 [[AMZN]](https://www.amazon.com.br/Microeconomic-Theory-Andreu-Mas-Colell/dp/0195073401)
