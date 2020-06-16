@@ -34,6 +34,10 @@
 
 ## Econometria de Séries Temporais
 
+### Rodrigo de Losso Bueno, *Econometria de Séries Temporais*
+
+[[AMZN]](https://www.amazon.com.br/Econometria-S%C3%A9ries-Temporais-Rodrigo-Silveira/dp/8522106428)
+
 ### Walter Enders, *Applied Econometric Time Series*
 
 ## Matemática para Economistas
