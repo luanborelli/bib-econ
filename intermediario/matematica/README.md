@@ -12,6 +12,18 @@
 
 [[SBM]](https://loja.sbm.org.br/index.php/curso-de-analise-vol-1.html)
 
+### Robert Bartle & Donald Sherbert, *Introduction to Real Analysis*
+
+[[AMZN]](https://www.amazon.com.br/Introduction-Real-Analysis-Robert-Bartle/dp/0471433314/)
+
+### Terrence Tao, *Analysis I*
+
+[[AMZN]](https://www.amazon.com.br/Analysis-Third-Readings-Mathematics-English-ebook/dp/B01LFAANIW/)
+
+### Walter Rudin, *Principles of Mathematical Analysis*
+
+[[AMZN]](https://www.amazon.com.br/Principles-Mathematical-Analysis-Walter-Rudin/dp/007054235X/)
+
 ## Econometria
 
 ### Fumio Hayashi, *Econometrics*
