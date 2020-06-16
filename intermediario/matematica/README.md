@@ -21,3 +21,9 @@
 ### William H. Greene, *Econometric Analysis*
 
 [[AMZN]](https://www.amazon.com.br/Econometric-Analysis-William-H-Greene/dp/0131395386/r)
+
+## Probabilidade
+
+### Barry James, *Probabilidade: um Curso em Nivel Intermediário*
+
+[[SBM]](https://loja.sbm.org.br/index.php/impa/colecao-projeto-euclides/probabilidade-um-curso-em-nivel-intermediario.html)
