@@ -28,9 +28,12 @@
 
 ## Econometria Geral
 
+### Jorn Pischke & Joshua Angrist, *Mastering 'Metrics: The Path from Cause to Effect*
+[[AMZN]](https://www.amazon.com.br/Mastering-Metrics-Path-Cause-Effect/dp/0691152845/)
+
 ### Damodar N. Gujarati & Dawn C. Porter, *Econometria Básica*
 ### James H. Stock & Mark W. Watson, *Econometria*
-### Jeffrey Wooldridge, *Introdução à econometria: Uma abordagem moderna*
+### Jeffrey Wooldridge, *Introdução à Econometria: Uma Abordagem Moderna*
 
 ## Econometria de Séries Temporais
 
@@ -48,4 +51,4 @@
 
 ## Probabilidade
 
-### Pau L. Meyer, *Probabilidade - Aplicações à Estatística*
+### Paul L. Meyer, *Probabilidade - Aplicações à Estatística*
