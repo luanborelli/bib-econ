@@ -24,11 +24,41 @@
 
 [[AMZN]](https://www.amazon.com.br/Principles-Mathematical-Analysis-Walter-Rudin/dp/007054235X/)
 
+## Cálculo
+
+### Michal Spivak, *Calculus*
+
+[[AMZN]](https://www.amazon.com.br/Calculus-Michael-Spivak/dp/8429151826/)
+
+### Richard Courant, *Differential and  Integral Calculus, Volume I*
+
+[[AMZN]](https://www.amazon.com.br/Differential-Integral-Calculus-Vol-One/dp/4871878384/)
+
+### Richard Courant, *Differential and  Integral Calculus, Volume II*
+
+[[AMZN]](https://www.amazon.com.br/Differential-Integral-Calculus-Vol-2/dp/487187835X)
+
+### Tom Apostol, *Cálculo I*
+
+[[AMZN]](https://www.amazon.com.br/Calculus-C%C3%A1lculo-Tom-M-Apostol/dp/8429150153/)
+
+### Tom Apostol, *Cálculo II*
+
+[[AMZN]](https://www.amazon.com.br/C%C3%A1lculo-2-Tom-M-Apostol/dp/8429150161/)
+
 ## Econometria
 
 ### Fumio Hayashi, *Econometrics*
 
 [[AMZN]](https://www.amazon.com.br/Econometrics-English-Fumio-Hayashi-ebook/dp/B007AIXESK/)
+
+### James Hamilton, *Time Series Analysis*
+
+[[AMZN]](https://www.amazon.com.br/Time-Analysis-James-Hamilton/dp/0691042896/)
+
+### Jorn-Steffen Pischke & Joshua Angrist, *Mostly Harmless Econometrics: An Empiricist's Companion*
+
+[[AMZN]](https://www.amazon.com.br/Mostly-Harmless-Econometrics-Empiricists-Companion/dp/0691120358/)
 
 ### William H. Greene, *Econometric Analysis*
 
