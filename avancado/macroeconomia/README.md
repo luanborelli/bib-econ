@@ -1,6 +1,6 @@
 # E:	Macroeconomia e Economia Monetária
 
-### Macroeconomia Geral
+## Macroeconomia Geral
 
 ### Mário Henrique Simonsen, *Dinâmica Macroeconômica*
 
