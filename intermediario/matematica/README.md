@@ -73,3 +73,7 @@
 ### Barry James, *Probabilidade: um Curso em Nivel Intermediário*
 
 [[SBM]](https://loja.sbm.org.br/index.php/impa/colecao-projeto-euclides/probabilidade-um-curso-em-nivel-intermediario.html)
+
+###  Marcos Nascimento Magalhães, *Probabilidade e Variáveis Aleatórias*
+
+[[AMZN]](https://www.amazon.com.br/Probabilidade-Vari%C3%A1veis-Aleat%C3%B3rias-Nascimento-Magalhaes/dp/8531409454)
