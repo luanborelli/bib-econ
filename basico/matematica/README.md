@@ -5,6 +5,8 @@
 ### David Poole, *Álgebra linear: uma introdução moderna*
 ### Jose Luiz Boldrini, *Álgebra Linear*
 ### Gilbert Strang, *Álgebra Linear e suas Aplicações*
+### Stephen Boyd & Lieven Vandenberghe, *Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares*
+[[LINK]][https://web.stanford.edu/~boyd/vmls/]
 
 ## Cálculo
 

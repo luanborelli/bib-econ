@@ -76,3 +76,8 @@
 
 ###  Marcos Nascimento Magalhães, *Probabilidade e Variáveis Aleatórias*
 **[[edumangabeira](https://github.com/edumangabeira)]**  É basicamente o livro do Barry James mais mastigado e pode ajudar quem tiver dificuldades com intuição. [[AMZN]](https://www.amazon.com.br/Probabilidade-Vari%C3%A1veis-Aleat%C3%B3rias-Nascimento-Magalhaes/dp/8531409454)
+
+## Otimização
+
+### Stephen Boyd & Lieven Vandenberghe, *Convex Optimization*
+[[LINK]][https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf]
