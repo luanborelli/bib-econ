@@ -32,6 +32,10 @@
 
 [[AMZN]](https://www.amazon.com.br/Recursive-Methods-Economic-Dynamics-Stokey/dp/0674750969)
 
+### Nancy Stokey, *The Economics of Inaction: Stochastic Control Models with Fixed Costs*
+
+**[[@tomasmartinezzz](https://twitter.com/tomasmartinezzz)]** Ótimo livro para estudar modelos em tempo contínuo. Também é muito útil para economistas que querem revisar (ou aprender) um pouco sobre processos estocásticos. [[AMZN]](https://www.amazon.com.br/Economics-Inaction-Stochastic-Control-Models/dp/0691135053/)
+
 ## DSGE
 
 ### Carl Walsh, *Monetary Theory and Policy*
