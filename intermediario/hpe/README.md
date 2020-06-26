@@ -8,3 +8,7 @@
 
 ### Michel De Vroey, *A History of Macroeconomics from Keynes to Lucas and Beyond*
 [[AMZN]](https://www.amazon.com.br/History-Macroeconomics-Keynes-Lucas-Beyond/dp/1107584949/)
+
+### Overton H. Taylor & Seymour E. Harris, *A History Of Economic Thought*
+[[AMZN]](https://www.amazon.com/History-Economic-Thought-Overton-Taylor/dp/1258178451)
+
