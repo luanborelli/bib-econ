@@ -80,4 +80,4 @@
 ## Otimização
 
 ### Stephen Boyd & Lieven Vandenberghe, *Convex Optimization*
-[[LINK]][https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf]
+[[LINK]](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
