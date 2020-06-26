@@ -44,8 +44,7 @@
 
 ## Estimação de DSGE
 
-
-###  Edward P. Herbst & Frank Schorfheide ,*Bayesian Estimation of DSGE Models*
+###  Edward P. Herbst & Frank Schorfheide, *Bayesian Estimation of DSGE Models*
 
 [[AMZN]](https://www.amazon.com.br/Bayesian-Estimation-Models-Edward-Herbst/dp/0691161089)
 
