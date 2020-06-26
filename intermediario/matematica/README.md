@@ -6,6 +6,10 @@
 
 [[SBM]](https://loja.sbm.org.br/index.php/impa/colecao-matematica-universitaria/algebra-linear.html)
 
+### Gilbert Strang *Álgebra Linear e suas Aplicações*
+
+[[AMZN]](https://www.amazon.com.br/%C3%81lgebra-linear-aplica%C3%A7%C3%B5es-Gilbert-Strang/dp/8522107440)
+
 ## Análise
 
 ### Elon Lages Lima, *Curso de Análise Vol. 1*
