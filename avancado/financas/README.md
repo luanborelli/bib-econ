@@ -3,11 +3,22 @@
 
 ## Asset Pricing
 
+
+### Claus Munk,  *Financial Asset Pricing Theory*
+
+**[[RenAokigahara](https://twitter.com/RenAokigahara)]** Mais pesado em Matemática do que o Cochrane.  Mas ainda muito mais leve e intuitivo do que o Duffie. [[AMZN]](https://www.amazon.com/Financial-Asset-Pricing-Theory-Claus-dp-0198716451/dp/0198716451/)
+
 ### Darrell Duffie, *Dynamic Asset Pricing Theory*
 [[AMZN]](https://www.amazon.com.br/Dynamic-Asset-Pricing-Theory-Third/dp/069109022X/)
 
+### John H. Cochrane, *Asset Pricing*
+
+**[[RenAokigahara](https://twitter.com/RenAokigahara)]** Muito intuitivo (talvez pudesse até ser classificado a nível intermediário) e não exige muita coisa além de Cálculo, Álgebra linear, Probabilidade e Econometria. A parte empírica é muito boa. [[AMZN]](https://www.amazon.com/Asset-Pricing-John-H-Cochrane/dp/0691121370/)
+
 ### Robert A. Jarrow, *Continuous-Time Asset Pricing Theory: A Martingale-Based Approach*
 [[AMZN]](https://www.amazon.com.br/Continuous-Time-Asset-Pricing-Theory-Martingale-Based/dp/331977820X/)
+
+
 
 ## Derivativos
 
