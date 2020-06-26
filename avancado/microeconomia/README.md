@@ -27,3 +27,7 @@
 ### Drew Fudenberg & Jean Tirole, *Game Theory*
 
 [[AMZN]](https://www.amazon.com.br/Game-Theory-Drew-Fudenberg/dp/0262061414)
+
+### Patrick Bolton & Mathias Dewatripont,  *Contract Theory*
+
+[[AMZN]](https://www.amazon.com.br/Contract-Theory-Patrick-Bolton/dp/0262025760)
