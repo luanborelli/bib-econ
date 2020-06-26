@@ -21,6 +21,10 @@
 
 ### Rudiger Dornbusch, Stanley Fischer & Richard Startz, *Macroeconomia*
 
+### Stephen D. Williamson, *Macroeconomics* 
+**[[@CorreadsGustavo](https://twitter.com/CorreadsGustavo)]** Um livro para a graduação, mas que se propõe ao ensino de macroeconomia com microfundamentos, o que é um pouco incomum no nicho. [[AMZN]](https://www.amazon.com/Macroeconomics-Pearson-Economics-Stephen-Williamson/dp/013447211X/)
+
+
 ## Contabilidade Social 
 
 ### Carmen Feijo, *Contabilidade Social: Referencia atualizada das contas nacionais do Brasil*
