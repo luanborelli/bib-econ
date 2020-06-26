@@ -26,11 +26,7 @@
 
 ### Gelman e coautores *Bayesian Data Analysis*
 
-<<<<<<< HEAD
 **[[@DaniellMrC](https://twitter.com/DaniellMrC)]** Livro completissimo de Bayesiana, métodos e modelos. Link com o pdf. [[LINK]](http://www.stat.columbia.edu/~gelman/book/)
-=======
-**[[@DaniellMrC]][https://twitter.com/DaniellMrC]** Livro completissimo de Bayesiana, métodos e modelos. Link com o pdf. [[LINK]](http://www.stat.columbia.edu/~gelman/book/)
->>>>>>> fb4dc678b309c12bced48f007178a135fb49878f
 
 ## Matemática para Economistas
 
@@ -50,8 +46,4 @@
 
 ### Hastie, Tibshiriani & Friedman *Elements of Statistical Learning*
 
-<<<<<<< HEAD
 **[[@DaniellMrC](https://twitter.com/DaniellMrC)]** Métodos de _machine learning_ estão em alta e esse livro explica como funciona alguns dos métodos mais populares e dá exemplos de aplicações. Bem adequado para entender o tema e explorar os algoritmos que são cada vez mais usados e muitas vezes vistos como completamente herméticos. [[LINK]](https://web.stanford.edu/~hastie/ElemStatLearn/)
-=======
-**[[@DaniellMrC]][https://twitter.com/DaniellMrC]** Métodos de _machine learning_ estão em alta e esse livro explica como funciona alguns dos métodos mais populares e dá exemplos de aplicações. Bem adequado para entender o tema e explorar os algoritmos que são cada vez mais usados e muitas vezes vistos como completamente herméticos. [[Link]](https://web.stanford.edu/~hastie/ElemStatLearn/)
->>>>>>> fb4dc678b309c12bced48f007178a135fb49878f

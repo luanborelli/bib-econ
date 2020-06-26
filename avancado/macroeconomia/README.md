@@ -22,11 +22,7 @@
 
 ### Jianjun Miao, *Economic Dynamics in Discrete Time*
 
-<<<<<<< HEAD
 **[[@DaniellMrC](https://twitter.com/DaniellMrC)]** Eu sou apaixonado por esse livro - que eu sempre tenho a sensação de ter basicamente tudo. DSGE, modelos de geração embricada, explicação de como o gensys funciona, modelos de mercados incompletos... Descrição bastante completa de quase tudo que eu precisei [[AMZN]](https://www.amazon.com.br/Economic-Dynamics-Discrete-Time-Jianjun/dp/0262043629/)
-=======
-**[[@DaniellMrC]][https://twitter.com/DaniellMrC]** Eu sou apaixonado por esse livro - que eu sempre tenho a sensação de ter basicamente tudo. DSGE, modelos de geração embricada, explicação de como o gensys funciona, modelos de mercados incompletos... Descrição bastante completa de quase tudo que eu precisei [[AMZN]](https://www.amazon.com.br/Economic-Dynamics-Discrete-Time-Jianjun/dp/0262043629/)
->>>>>>> fb4dc678b309c12bced48f007178a135fb49878f
 
 ### Lars Ljungqvist & Thomas Sargent, *Recursive Macroeconomic Theory*
 
@@ -40,19 +36,11 @@
 
 ### Carl Walsh *Monetary Theory and Policy*
 
-<<<<<<< HEAD
 **[[@DaniellMrC](https://twitter.com/DaniellMrC)]** Um pouco mais didático que o Gali, trata de mais coisa e tem menos foco em DSGE. [[AMZN]](https://www.amazon.com.br/Monetary-Theory-Policy-Carl-Walsh/dp/0262013770)
 
 ### Jordi Gali *Monetary Policy, Inflation, and the Business Cycle – An Introduction to the New Keynesian Framework and Its Applications*
 
 **[[@DaniellMrC](https://twitter.com/DaniellMrC)]** Livro com o básico de DSGE, boa sequência, começa explicando bem as ideias e coloca a evidência empírica. Peca em algumas coisas, como explicar log linearização[[AMZN]](https://www.amazon.com.br/Monetary-Policy-Inflation-Business-Cycle/dp/0691164789)
-=======
-**[[@DaniellMrC]][https://twitter.com/DaniellMrC]** Um pouco mais didático que o Gali, trata de mais coisa e tem menos foco em DSGE. [[AMZN]](https://www.amazon.com.br/Monetary-Theory-Policy-Carl-Walsh/dp/0262013770)
-
-### Jordi Gali *Monetary Policy, Inflation, and the Business Cycle – An Introduction to the New Keynesian Framework and Its Applications*
-
-**[[@DaniellMrC]][https://twitter.com/DaniellMrC]** Livro com o básico de DSGE, boa sequência, começa explicando bem as ideias e coloca a evidência empírica. Peca em algumas coisas, como explicar log linearização[[AMZN]](https://www.amazon.com.br/Monetary-Policy-Inflation-Business-Cycle/dp/0691164789)
->>>>>>> fb4dc678b309c12bced48f007178a135fb49878f
 
 ## Estimação de DSGE
 

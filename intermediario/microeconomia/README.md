@@ -10,11 +10,8 @@
 
 ## David Kreps, *A Course In Microeconomic Theory*
 
-<<<<<<< HEAD
 **[[@DaniellMrC](https://twitter.com/DaniellMrC)]** Livro muito bom, o Kreps escreve muito bem! Eu arriscaria dizer que esse é um livro avançado em alguns aspectos. [[AMZN]](https://www.amazon.com.br/Course-Microeconomic-Theory-David-Kreps/dp/0691042640)
-=======
-**[[@DaniellMrC]][https://twitter.com/DaniellMrC]** Livro muito bom, o Kreps escreve muito bem! Eu arriscaria dizer que esse é um livro avançado em alguns aspectos. [[AMZN]](https://www.amazon.com.br/Course-Microeconomic-Theory-David-Kreps/dp/0691042640)
->>>>>>> fb4dc678b309c12bced48f007178a135fb49878f
+
 
 ## Teoria dos Jogos
 
@@ -28,8 +25,4 @@
 
 ### Joel Watson, *Strategy: An Introduction to Game Theory*
 
-<<<<<<< HEAD
 **[[@DaniellMrC](https://twitter.com/DaniellMrC)]** O livro que eu usei na graduação pra jogos, as explicações são excelentes e bons exemplos! [[AMZN]](https://www.amazon.com.br/Strategy-Introduction-Theory-Joel-Watson/dp/0393918386/)
-=======
-**[[@DaniellMrC]][https://twitter.com/DaniellMrC]** O livro que eu usei na graduação pra jogos, as explicações são excelentes e bons exemplos! [[AMZN]](https://www.amazon.com.br/Strategy-Introduction-Theory-Joel-Watson/dp/0393918386/)
->>>>>>> fb4dc678b309c12bced48f007178a135fb49878f
