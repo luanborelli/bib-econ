@@ -8,3 +8,6 @@
 
 ### Richard Brealey, Stewart Myers & Franklin Allen, *Princípios de finanças corporativas*
 
+## Opções
+
+### John C Hull *Opções, Futuros e Outros Derivativos*
