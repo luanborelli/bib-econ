@@ -10,9 +10,11 @@
 
 ### Ariel Rubinstein, *Lecture Notes in Microeconomic Theory*
 
+
 ### David Kreps, *Microeconomic Foundations I: Choice and Competitive Markets*
 
 [[AMZN]](https://www.amazon.com.br/Microeconomic-Foundations-Choice-Competitive-Markets/dp/0691155836)
+
 
 ### Hal R. Varian, *Microeconomic Analysis*
 

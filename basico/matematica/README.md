@@ -4,6 +4,7 @@
 
 ### David Poole, *Álgebra linear: uma introdução moderna*
 ### Jose Luiz Boldrini, *Álgebra Linear*
+### Gilbert Strang *Álgebra Linear e suas Aplicações*
 
 ## Cálculo
 
@@ -13,6 +14,8 @@
 ### Hamilton Luiz Guidorizzi, *Um Curso de Cálculo: volume 2*
 ### Hamilton Luiz Guidorizzi, *Um Curso de Cálculo: volume 3*
 ### Hamilton Luiz Guidorizzi, *Um Curso de Cálculo: volume 4*
+
+### William Boyce & Richard DiPrima & Douglas Meade *Equações Diferenciais Elementares e problemas de Valores de Contorno
 
 ## Análise
 

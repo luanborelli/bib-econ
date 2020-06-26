@@ -12,6 +12,10 @@
 
 ## Econometria
 
+### Adrian Cameron & Pravin Trivedi *Microeconometrics: Methods and Applications*
+
+[[AMZN]](https://www.amazon.com.br/Microeconometrics-Applications-Adrian-Colin-Cameron/dp/0521848059)
+
 ### Bruce Hansen, *Econometrics*
 
 [[LINK]](https://www.ssc.wisc.edu/~bhansen/econometrics/) *Observação: descer a página até a parte "Manuscripts from Previous Years" e baixar a edição que quiser*
@@ -20,14 +24,26 @@
 
 [[AMZN]](https://www.amazon.com.br/Econometric-Analysis-Cross-Section-English-ebook/dp/B007CNRAHY/)
 
+### Gelman e coautores *Bayesian Data Analysis*
+
+**[[@DaniellMrC]][https://twitter.com/DaniellMrC]** Livro completissimo de Bayesiana, métodos e modelos. Link com o pdf. [[LINK]](http://www.stat.columbia.edu/~gelman/book/)
+
 ## Matemática para Economistas
 
 ### Rubens Penha Cysne & Humberto Ataíde Moreira, *Curso de Matemática Para Economistas*
 
 [[AMZN]](https://www.amazon.com.br/Curso-Matem%C3%A1tica-Economistas-Rubens-Penha/dp/8522426996)
 
+## Angel de La Fuente *Mathematical Methods and Models for Economists*
+
+[[AMZN]](https://www.amazon.com.br/Mathematical-Methods-Models-Economists-Fuente/dp/0521585295)
+
 ## Outros
 
 ### Kim C. Border, *Fixed Point Theorems with Applications to Economics and Game Theory*
 
 [[AMZN]](https://www.amazon.com.br/Fixed-Theorems-Applications-Economics-Theory/dp/0521388082/)
+
+### Hastie, Tibshiriani & Friedman *Elements of Statistical Learning*
+
+**[[@DaniellMrC]][https://twitter.com/DaniellMrC]** Métodos de _machine learning_ estão em alta e esse livro explica como funciona alguns dos métodos mais populares e dá exemplos de aplicações. Bem adequado para entender o tema e explorar os algoritmos que são cada vez mais usados e muitas vezes vistos como completamente herméticos. [[Link]](https://web.stanford.edu/~hastie/ElemStatLearn/)
