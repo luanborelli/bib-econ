@@ -24,19 +24,19 @@
 
 [[AMZN]](https://www.amazon.com.br/Econometric-Analysis-Cross-Section-English-ebook/dp/B007CNRAHY/)
 
-### Gelman e coautores *Bayesian Data Analysis*
+### Gelman & coautores, *Bayesian Data Analysis*
 
 **[[@DaniellMrC](https://twitter.com/DaniellMrC)]** Livro completissimo de Bayesiana, métodos e modelos. Link com o pdf. [[LINK]](http://www.stat.columbia.edu/~gelman/book/)
 
 ## Matemática para Economistas
 
+### Angel de La Fuente, *Mathematical Methods and Models for Economists*
+
+[[AMZN]](https://www.amazon.com.br/Mathematical-Methods-Models-Economists-Fuente/dp/0521585295)
+
 ### Rubens Penha Cysne & Humberto Ataíde Moreira, *Curso de Matemática Para Economistas*
 
 [[AMZN]](https://www.amazon.com.br/Curso-Matem%C3%A1tica-Economistas-Rubens-Penha/dp/8522426996)
-
-## Angel de La Fuente *Mathematical Methods and Models for Economists*
-
-[[AMZN]](https://www.amazon.com.br/Mathematical-Methods-Models-Economists-Fuente/dp/0521585295)
 
 ## Outros
 
@@ -44,6 +44,6 @@
 
 [[AMZN]](https://www.amazon.com.br/Fixed-Theorems-Applications-Economics-Theory/dp/0521388082/)
 
-### Hastie, Tibshiriani & Friedman *Elements of Statistical Learning*
+### Hastie, Tibshiriani & Friedman, *Elements of Statistical Learning*
 
 **[[@DaniellMrC](https://twitter.com/DaniellMrC)]** Métodos de _machine learning_ estão em alta e esse livro explica como funciona alguns dos métodos mais populares e dá exemplos de aplicações. Bem adequado para entender o tema e explorar os algoritmos que são cada vez mais usados e muitas vezes vistos como completamente herméticos. [[LINK]](https://web.stanford.edu/~hastie/ElemStatLearn/)
