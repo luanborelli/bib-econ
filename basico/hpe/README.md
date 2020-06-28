@@ -5,7 +5,7 @@
 ### E.K. Hunt e Mark Lautzenheiser, *História do pensamento econômico: Uma perspectiva crítica*
 [[AMZN]](https://www.amazon.com.br/Hist%C3%B3ria-do-Pensamento-Econ%C3%B4mico-Hunt/dp/8535256091/)
 
-### Robert L. Heilbroner, *The Worldly Philosophers: The Lives, Times, and Ideas of the Great Economic Thinkers*9
+### Robert L. Heilbroner, *The Worldly Philosophers: The Lives, Times, and Ideas of the Great Economic Thinkers*
 [[AMZN]](https://www.amazon.com.br/Worldly-Philosophers-Lives-Economic-Thinkers/dp/068486214X)
 
 ### Roger Backhouse, *História da Economia Mundial*
