@@ -6,7 +6,7 @@
 
 ### Christopher Snyder & Walter Nicholson, *Teoria Microeconômica: Princípios Básicos e Aplicações*
 
-[[AMZN]](https://www.amazon.com.br/Teoria-Microecon%C3%B4mica-Princ%C3%ADpios-B%C3%A1sicos-Aplica%C3%A7%C3%B5es/dp/8522127026/)
+**[[@LucasccDias0](https://twitter.com/LucasccDias0)]** Tradução INCOMPLETA da versão norte-americana. [[AMZN]](https://www.amazon.com.br/Teoria-Microecon%C3%B4mica-Princ%C3%ADpios-B%C3%A1sicos-Aplica%C3%A7%C3%B5es/dp/8522127026/)
 
 ## David Kreps, *A Course In Microeconomic Theory*
 
