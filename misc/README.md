@@ -36,6 +36,8 @@ Outros materiais.
 
 ### Deirdre McCloskey, *Economical Writing: An Executive Summary*
 
+### John H. Cochrane, *Writing Tips for Ph. D. Students*
+
 ## Modelagem Econômica
 
 ### Hal R. Varian, *How to Build an Economic Model in Your Spare Time*
