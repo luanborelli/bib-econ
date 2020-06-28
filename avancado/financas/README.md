@@ -15,9 +15,11 @@
 
 **[[RenAokigahara](https://twitter.com/RenAokigahara)]** Muito intuitivo (talvez pudesse até ser classificado a nível intermediário) e não exige muita coisa além de Cálculo, Álgebra linear, Probabilidade e Econometria. A parte empírica é muito boa. [[AMZN]](https://www.amazon.com/Asset-Pricing-John-H-Cochrane/dp/0691121370/)
 
+### John Y. Campbell, *Financial Decisions and Markets: A Course in Asset Pricing: Financial Decisions and Markets: A Course in Asset Pricing*
+**[[thomasmartins]](github.com/thomasmartins)** Do mesmo nível do Cochrane, porém mais atualizado e com um foco maior em micro e aspectos comportamentais. [[AMZN]](https://www.amazon.com/Financial-Decisions-Markets-Course-Pricing/dp/0691160805)
+
 ### Robert A. Jarrow, *Continuous-Time Asset Pricing Theory: A Martingale-Based Approach*
 [[AMZN]](https://www.amazon.com.br/Continuous-Time-Asset-Pricing-Theory-Martingale-Based/dp/331977820X/)
-
 
 
 ## Derivativos
