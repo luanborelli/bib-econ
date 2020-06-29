@@ -28,6 +28,10 @@
 
 [[AMZN]](https://www.amazon.com.br/Game-Theory-Drew-Fudenberg/dp/0262061414)
 
+### Michael Maschler, Eilon Solan & Shmuel Zamir, *Game Theory*
+
+Livro referência. Cobre quase tudo que um economista precisa saber sobre jogos. Jogos não-cooperativos e cooperativos, escolha social, leilões e matching. Sofisticação matemática semelhante ao livro do Tirole. [[AMZN]](https://www.amazon.com/Game-Theory-Michael-Maschler/dp/1107005485)
+
 ### Patrick Bolton & Mathias Dewatripont,  *Contract Theory*
 
 [[AMZN]](https://www.amazon.com.br/Contract-Theory-Patrick-Bolton/dp/0262025760)
