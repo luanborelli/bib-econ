@@ -1,5 +1,10 @@
 # E:	Macroeconomia e Economia Monetária
 
+## Macroeconomia Geral
+
+### Ben Heijdra, *Foundations of Modern Macroeconomics*
+Livro semelhante ao Romer. [[LINK]](https://global.oup.com/academic/product/foundations-of-modern-macroeconomics-9780198784135?cc=us&lang=en&)
+
 
 ## Crescimento Econômico
 
