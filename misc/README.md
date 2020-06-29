@@ -38,6 +38,9 @@ Outros materiais.
 
 ### John H. Cochrane, *Writing Tips for Ph. D. Students*
 
+### William Strunk Jr. & E.B. White, *The Elements of Style*
+
+
 ## Modelagem Econômica
 
 ### Hal R. Varian, *How to Build an Economic Model in Your Spare Time*
