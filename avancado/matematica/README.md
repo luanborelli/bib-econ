@@ -38,11 +38,22 @@
 
 [[AMZN]](https://www.amazon.com.br/Curso-Matem%C3%A1tica-Economistas-Rubens-Penha/dp/8522426996)
 
-## Outros
+## Métodos Matemáticos em Teoria dos Jogos
+
 
 ### Kim C. Border, *Fixed Point Theorems with Applications to Economics and Game Theory*
-
 [[AMZN]](https://www.amazon.com.br/Fixed-Theorems-Applications-Economics-Theory/dp/0521388082/)
+
+### Rida Laraki, Jérôme Renault e Sylvain Sorin, *Mathematical Foundations of Game Theory*
+[[AZMN]](https://www.amazon.com.br/Mathematical-Foundations-Game-Theory-Laraki/dp/3030266451)
+
+
+## Controle Ótimo
+
+### Michael R. Caputo, *Foundations of Dynamic Economic Analysis: Optimal Control Theory and Application*
+Esse livro trata de controle ótimo em tempo continuo. É um tópico importante para quem se interessa por macroeconomia e economia ambiental e dos recursos naturais. [[AZMN]](https://www.amazon.com/Foundations-Dynamic-Economic-Analysis-Applications/dp/0521603684)
+
+## Outros
 
 ### Hastie, Tibshiriani & Friedman, *Elements of Statistical Learning*
 
