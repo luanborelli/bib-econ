@@ -36,10 +36,12 @@ Outros materiais.
 
 ### Deirdre McCloskey, *Economical Writing: An Executive Summary*
 
+### Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts, *Mathematical Writing* 
+[LINK](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
+
 ### John H. Cochrane, *Writing Tips for Ph. D. Students*
 
 ### William Strunk Jr. & E.B. White, *The Elements of Style*
-
 
 ## Modelagem Econômica
 
