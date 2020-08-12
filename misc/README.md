@@ -43,6 +43,8 @@ Outros materiais.
 
 ### William Strunk Jr. & E.B. White, *The Elements of Style*
 
+### William Thomson, *The Young Person’s Guide to Writing Economic Theory*
+
 ## Modelagem Econômica
 
 ### Hal R. Varian, *How to Build an Economic Model in Your Spare Time*
