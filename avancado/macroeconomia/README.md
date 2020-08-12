@@ -24,7 +24,11 @@
 
 **[[@DaniellMrC](https://twitter.com/DaniellMrC)]** Eu sou apaixonado por esse livro - que eu sempre tenho a sensação de ter basicamente tudo. DSGE, modelos de geração embricada, explicação de como o gensys funciona, modelos de mercados incompletos... Descrição bastante completa de quase tudo que eu precisei [[AMZN]](https://www.amazon.com.br/Economic-Dynamics-Discrete-Time-Jianjun/dp/0262043629/)
 
-### Lars Ljungqvist & Thomas Sargent, *Recursive Macroeconomic Theory*
+### Lars Hansen & Thomas J. Sargent, *Recursive Models of Dynamic Linear Economies*
+
+**[[@BorelliLuan](https://twitter.com/BorelliLuan)]** Kenneth D. West escreveu [uma ótima resenha](https://www.aeaweb.org/articles?id=10.1257/jel.20151411) sobre o livro e publicou no *Journal of Economic Literature* da AEA. Diante disso, quem sou eu para dizer algo? [[LINK]](https://home.uchicago.edu/~lhansen/mbook2.pdf)
+
+### Lars Ljungqvist & Thomas J. Sargent, *Recursive Macroeconomic Theory*
 
 [[AMZN]](https://www.amazon.com.br/Recursive-Macroeconomic-Theory-Lars-Ljungqvist/dp/0262018748)
 
