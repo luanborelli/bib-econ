@@ -28,6 +28,10 @@
 
 **[[@DaniellMrC](https://twitter.com/DaniellMrC)]** Livro completissimo de Bayesiana, métodos e modelos. Link com o pdf. [[LINK]](http://www.stat.columbia.edu/~gelman/book/)
 
+### Roman Vershynin, *High Dimensional Probability*
+
+**[[@DaniellMrC](https://twitter.com/DaniellMrC)]** Teoria usada para explicar porque algoritmos de *Machine Learning* funciona. Nincho, mas pode ganhar espaço conforme esses métodos se difundem. [[LINK]](https://www.math.uci.edu/~rvershyn/)
+
 ## Matemática para Economistas
 
 ### Angel de La Fuente, *Mathematical Methods and Models for Economists*
