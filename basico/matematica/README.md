@@ -25,6 +25,8 @@
 [[AMZN]](https://www.amazon.com.br/How-Prove-Structured-Daniel-Velleman/dp/1108439535/)
 ### Gary Chartrand, Albert D. Polimeni & Ping Zhang, *Mathematical Proofs: A Transition to Advanced Mathematics*
 [[AMZN]](https://www.amazon.com.br/Mathematical-Proofs-International-Transition-Mathematics-ebook/dp/B00IZ0L5II/)
+### Jay Cummings, *Real Analysis: A Long-Form Mathematics Textbook*
+[[AMZN]](https://www.amazon.com/Real-Analysis-Long-Form-Mathematics-Textbook/dp/1077254547)
 ### Lara Alcock, *How to Think About Analysis*
 [[AMZN]](https://www.amazon.com.br/How-Think-About-Analysis-English-ebook/dp/B00O94K6NO/)
 ### Stephen Abbott, *Understanding Analysis*
