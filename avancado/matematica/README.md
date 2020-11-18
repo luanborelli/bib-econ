@@ -20,6 +20,11 @@
 
 [[LINK]](https://www.ssc.wisc.edu/~bhansen/econometrics/) *Observação: descer a página até a parte "Manuscripts from Previous Years" e baixar a edição que quiser*
 
+
+### D. S. G. Pollock, Richard C. Green & Truong Nguyen, *Handbook of Time Series Analysis, Signal Processing, and Dynamics*
+
+**[[@BorelliLuan](https://twitter.com/BorelliLuan)]** Li o capítulo "Time-Series Analysis in the Frequency Domain" e achei excelente. [[AMZN]](https://www.amazon.com.br/Handbook-Analysis-Signal-Processing-Dynamics/dp/0125609906)
+
 ### Jeffrey Wooldridge, *Econometric Analysis of Cross Section and Panel Data*
 
 [[AMZN]](https://www.amazon.com.br/Econometric-Analysis-Cross-Section-English-ebook/dp/B007CNRAHY/)
