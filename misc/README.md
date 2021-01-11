@@ -32,6 +32,9 @@ Outros materiais.
 ### Michael Szenberg & Ann Arbor, *Passion and Craft: Economists at Work*
 ### William Thomson, *A Guide for the Young Economist*
 
+### Masayuki Kudamatsu (org.), *Tips 4 Economists* 
+A (massive) collection of pieces of advice for economists in various stages. Organized by Masayuki Kudamatsu. [[LINK]](https://sites.google.com/site/mkudamatsu/tips4economists)
+
 ## Escrita Acadêmica
 
 ### Deirdre McCloskey, *Economical Writing: An Executive Summary*
