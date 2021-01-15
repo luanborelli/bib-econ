@@ -32,14 +32,14 @@ Outros materiais.
 ### Michael Szenberg & Ann Arbor, *Passion and Craft: Economists at Work*
 ### William Thomson, *A Guide for the Young Economist*
 
-### Masayuki Kudamatsu (org.), *Tips 4 Economists* 
+### Masayuki Kudamatsu (org.), *Tips 4 Economists*
 A (massive) collection of pieces of advice for economists in various stages. Organized by Masayuki Kudamatsu. [[LINK]](https://sites.google.com/site/mkudamatsu/tips4economists)
 
 ## Escrita Acadêmica
 
 ### Deirdre McCloskey, *Economical Writing: An Executive Summary*
 
-### Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts, *Mathematical Writing* 
+### Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts, *Mathematical Writing*
 [[LINK]](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
 
 ### John H. Cochrane, *Writing Tips for Ph. D. Students*
@@ -52,4 +52,10 @@ A (massive) collection of pieces of advice for economists in various stages. Org
 
 ### Hal R. Varian, *How to Build an Economic Model in Your Spare Time*
 
+## Notas de Aula
 
+### MIT OpenCourseware
+
+**[[@DaniellMrC](https://twitter.com/DaniellMrC)]** Uma coleção mantida pelo MIT de materiais de cursos deles - de todas as áreas em todos os níveis. Uma boa para encontrar demonstrações que ninguém fez ou entender tópicos inéditos. Não é uniformemente bom nem atualizado sempre, mas em muitos casos ajuda. 
+
+[[LINK]](https://ocw.mit.edu/)
