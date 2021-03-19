@@ -29,7 +29,12 @@ Outros materiais.
 
 
 ### Avinash Dixit, *My System of Work*
+
 ### Michael Szenberg & Ann Arbor, *Passion and Craft: Economists at Work*
+
+### Ricardo Dahis, *Advice for Academic Research*
+[[LINK]](http://www.ricardodahis.com/files/papers/Dahis_Advice_Research.pdf)
+
 ### William Thomson, *A Guide for the Young Economist*
 
 ### Masayuki Kudamatsu (org.), *Tips 4 Economists*
