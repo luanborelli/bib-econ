@@ -64,3 +64,8 @@ A (massive) collection of pieces of advice for economists in various stages. Org
 **[[@DaniellMrC](https://twitter.com/DaniellMrC)]** Uma coleção mantida pelo MIT de materiais de cursos deles - de todas as áreas em todos os níveis. Uma boa para encontrar demonstrações que ninguém fez ou entender tópicos inéditos. Não é uniformemente bom nem atualizado sempre, mas em muitos casos ajuda. 
 
 [[LINK]](https://ocw.mit.edu/)
+
+## LaTeX
+
+### Chiu Yu Ko, *TikZ Cookbook: Diagrams in Economics*
+[[LINK]](https://sites.google.com/site/kochiuyu/Tikz)
