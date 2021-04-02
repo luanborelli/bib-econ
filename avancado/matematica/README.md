@@ -1,5 +1,11 @@
 # C: Métodos Quantitativos e Matemáticos
 
+## Álgebra Linear
+
+### Helmut Lütkepohl, *Handbook of Matrices*
+
+[[LINK]](https://www.amazon.com/Handbook-Matrices-Helmut-L%C3%BCtkepohl/dp/0471970158)
+
 ## Análise
 
 ### A. N. Kolmogorov, *Introductory Real Analysis*
