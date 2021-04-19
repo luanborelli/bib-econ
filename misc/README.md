@@ -40,6 +40,9 @@ Outros materiais.
 ### Masayuki Kudamatsu (org.), *Tips 4 Economists*
 A (massive) collection of pieces of advice for economists in various stages. Organized by Masayuki Kudamatsu. [[LINK]](https://sites.google.com/site/mkudamatsu/tips4economists)
 
+### Anthony Lee Zhang, *Notes*
+Anthony Lee Zhang tips and advices for economics and finance students. [[LINK]](https://anthonyleezhang.github.io/other.html)
+
 ## Escrita Acadêmica
 
 ### Deirdre McCloskey, *Economical Writing: An Executive Summary*
