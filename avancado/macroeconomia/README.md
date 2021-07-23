@@ -59,3 +59,9 @@
 ### Fabio Canova, *Methods for Applied Macroeconomic Research*
 
 [[AMZN]](https://www.amazon.com.br/Methods-Applied-Macroeconomic-Research-English-ebook/dp/B006CQ5CA4)
+
+## Macroeconometria
+
+### Carlo A. Favero, *Applied Macroeconometrics*
+
+[[AMZN]](https://www.amazon.com.br/Applied-Macroeconometrics-Carlo-Favero/dp/0198296851)
