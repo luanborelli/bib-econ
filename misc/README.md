@@ -27,21 +27,23 @@ Outros materiais.
 
 ## Vida de Estudos e Pesquisa
 
+### Anthony Lee Zhang, *Notes*
+Anthony Lee Zhang tips and advices for economics and finance students. [[LINK]](https://anthonyleezhang.github.io/other.html)
 
 ### Avinash Dixit, *My System of Work*
+
+### Masayuki Kudamatsu (org.), *Tips 4 Economists*
+A (massive) collection of pieces of advice for economists in various stages. Organized by Masayuki Kudamatsu. [[LINK]](https://sites.google.com/site/mkudamatsu/tips4economists)
 
 ### Michael Szenberg & Ann Arbor, *Passion and Craft: Economists at Work*
 
 ### Ricardo Dahis, *Advice for Academic Research*
 [[LINK]](http://www.ricardodahis.com/files/papers/Dahis_Advice_Research.pdf)
 
+### Simon W. Bowmaker, *The Heart of Teaching Economics: Lessons from Leading Minds*
+[[AMZN]](https://www.amazon.com.br/Heart-Teaching-Economics-Lessons-Leading/dp/1848447906)
+
 ### William Thomson, *A Guide for the Young Economist*
-
-### Masayuki Kudamatsu (org.), *Tips 4 Economists*
-A (massive) collection of pieces of advice for economists in various stages. Organized by Masayuki Kudamatsu. [[LINK]](https://sites.google.com/site/mkudamatsu/tips4economists)
-
-### Anthony Lee Zhang, *Notes*
-Anthony Lee Zhang tips and advices for economics and finance students. [[LINK]](https://anthonyleezhang.github.io/other.html)
 
 ## Escrita Acadêmica
 
