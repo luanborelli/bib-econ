@@ -74,3 +74,11 @@ A (massive) collection of pieces of advice for economists in various stages. Org
 
 ### Chiu Yu Ko, *TikZ Cookbook: Diagrams in Economics*
 [[LINK]](https://sites.google.com/site/kochiuyu/Tikz)
+
+## Documentários
+
+### John Kenneth Galbraith, *A Era da Incerteza*
+Uma visão pessoal de John Kenneth Galbraith. Demais episódios encontram-se no interior do canal. [[LINK]](https://www.youtube.com/watch?v=6Ou4nN3LiIQ)
+
+### Milton Friedman, *Free to Choose*
+Série documental clássica apresentada por Milton Friedman. [[LINK]](https://www.youtube.com/watch?v=dngqR9gcDDw&list=PLt27lKoC5LS4wbD28Jkv95UUm9H7wbVO4)
