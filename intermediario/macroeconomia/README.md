@@ -5,6 +5,8 @@
 ### Ben Heijdra, *Foundations of Modern Macroeconomics*
 Livro semelhante ao Romer. [[LINK]](https://global.oup.com/academic/product/foundations-of-modern-macroeconomics-9780198784135?cc=us&lang=en&)
 
+### Julio Garín, Robert Lester and Eric Sims, *Intermediate Macroeconomics*
+[[LINK]](https://juliogarin.com/files/textbook/GLS_Intermediate_Macro.pdf)
 
 ## Crescimento Econômico
 
