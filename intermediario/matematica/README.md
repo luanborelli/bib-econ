@@ -81,3 +81,8 @@
 
 ### Stephen Boyd & Lieven Vandenberghe, *Convex Optimization*
 [[LINK]](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+
+
+### A. K. Dixit, *Optimization in Economic Theory*
+
+[[AMZN]](https://www.amazon.com.br/Optimization-Economic-Theory-Avinash-Dixit/dp/0198772106/)
