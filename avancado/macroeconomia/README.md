@@ -4,6 +4,10 @@
 
 ### Mário Henrique Simonsen, *Dinâmica Macroeconômica*
 
+### Olivier J. Blanchard & Stanley Fischer, *Lectures on Macroeconomics*
+
+[[AMZN]](https://www.amazon.com.br/Lectures-Macroeconomics-Oliver-Jean-Blanchard/dp/0262022834/)
+
 ## Crescimento Econômico
 
 ### Daron Acemoglu, *Introduction to Modern Economic Growth*
@@ -39,6 +43,10 @@
 ### Nancy Stokey, *The Economics of Inaction: Stochastic Control Models with Fixed Costs*
 
 **[[@tomasmartinezzz](https://twitter.com/tomasmartinezzz)]** Ótimo livro para estudar modelos em tempo contínuo. Também é muito útil para economistas que querem revisar (ou aprender) um pouco sobre processos estocásticos. [[AMZN]](https://www.amazon.com.br/Economics-Inaction-Stochastic-Control-Models/dp/0691135053/)
+
+### Thomas J. Sargent, *Dynamic Macroeconomic Theory*
+
+[[AMZN]](https://www.amazon.com.br/Dynamic-Macroeconomic-Theory-Tj-Sargent/dp/0674218779)
 
 ## DSGE
 
