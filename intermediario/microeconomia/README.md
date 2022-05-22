@@ -32,3 +32,9 @@
 ### Joel Watson, *Strategy: An Introduction to Game Theory*
 
 **[[@DaniellMrC](https://twitter.com/DaniellMrC)]** O livro que eu usei na graduação pra jogos, as explicações são excelentes e bons exemplos! [[AMZN]](https://www.amazon.com.br/Strategy-Introduction-Theory-Joel-Watson/dp/0393918386/)
+
+## Choice Theory
+
+### David Kreps, *Notes on the Theory of Choice* 
+
+[[AMZN]](https://www.amazon.com.br/Notes-Theory-Choice-David-Kreps/dp/036709861X)
