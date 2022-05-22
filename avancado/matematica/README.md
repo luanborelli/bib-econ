@@ -6,15 +6,19 @@
 
 [[LINK]](https://www.amazon.com/Handbook-Matrices-Helmut-L%C3%BCtkepohl/dp/0471970158)
 
-## Análise
+## Análise Real
 
 ### A. N. Kolmogorov, *Introductory Real Analysis*
-
-### Efe A. Ok, *Real Analysis with Economic Applications*
 
 ### Elon Lages Lima, *Curso de Análise Vol. 2*
 
 [[LINK]](https://loja.sbm.org.br/index.php/curso-de-analise-vol-2.html)
+
+## Análise Convexa
+
+### Ralph Tyrell Rockafellar, *Convex Analysis* 
+
+[[AMZN]](https://www.amazon.com/Analysis-Princeton-Landmarks-Mathematics-Physics/dp/0691015864)
 
 ## Econometria
 
@@ -35,7 +39,7 @@
 
 [[AMZN]](https://www.amazon.com.br/Econometric-Analysis-Cross-Section-English-ebook/dp/B007CNRAHY/)
 
-### Gelman & coautores, *Bayesian Data Analysis*
+### Gelman et al., *Bayesian Data Analysis*
 
 **[[@DaniellMrC](https://twitter.com/DaniellMrC)]** Livro completissimo de Bayesiana, métodos e modelos. Link com o pdf. [[LINK]](http://www.stat.columbia.edu/~gelman/book/)
 
@@ -49,12 +53,15 @@
 
 [[AMZN]](https://www.amazon.com.br/Mathematical-Methods-Models-Economists-Fuente/dp/0521585295)
 
+### Efe A. Ok, *Real Analysis with Economic Applications* 
+
+[[AMZN]](https://www.amazon.com.br/Real-Analysis-Economic-Applications-Efe/dp/0691117683/)
+
 ### Rubens Penha Cysne & Humberto Ataíde Moreira, *Curso de Matemática Para Economistas*
 
 [[AMZN]](https://www.amazon.com.br/Curso-Matem%C3%A1tica-Economistas-Rubens-Penha/dp/8522426996)
 
 ## Métodos Matemáticos em Teoria dos Jogos
-
 
 ### Kim C. Border, *Fixed Point Theorems with Applications to Economics and Game Theory*
 [[AMZN]](https://www.amazon.com.br/Fixed-Theorems-Applications-Economics-Theory/dp/0521388082/)
@@ -63,10 +70,14 @@
 [[AZMN]](https://www.amazon.com.br/Mathematical-Foundations-Game-Theory-Laraki/dp/3030266451)
 
 
-## Controle Ótimo
+## Otimização Dinâmica
 
 ### Michael R. Caputo, *Foundations of Dynamic Economic Analysis: Optimal Control Theory and Application*
 Esse livro trata de controle ótimo em tempo continuo. É um tópico importante para quem se interessa por macroeconomia e economia ambiental e dos recursos naturais. [[AZMN]](https://www.amazon.com/Foundations-Dynamic-Economic-Analysis-Applications/dp/0521603684)
+
+### Morton I. Kamien, Nancy L. Schwartz, *Dynamic Optimization: The Calculus of Variations and Optimal Control in Economics and Management*
+
+[[LINK]](https://zuhermanrustam.files.wordpress.com/2015/02/kamienschwartz911.pdf)
 
 ## Outros
 
