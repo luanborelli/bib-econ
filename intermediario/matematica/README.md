@@ -16,6 +16,10 @@
 
 [[SBM]](https://loja.sbm.org.br/index.php/curso-de-analise-vol-1.html)
 
+### Robert Bartle, *Elements of Real Analysis*
+
+[[AMZN]](https://www.amazon.com.br/Elements-Analysis-Robert-Gardner-Bartle/dp/047105464X/)
+
 ### Robert Bartle & Donald Sherbert, *Introduction to Real Analysis*
 
 [[AMZN]](https://www.amazon.com.br/Introduction-Real-Analysis-Robert-Bartle/dp/0471433314/)
