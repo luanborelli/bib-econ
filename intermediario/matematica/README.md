@@ -6,9 +6,15 @@
 
 [[SBM]](https://loja.sbm.org.br/index.php/impa/colecao-matematica-universitaria/algebra-linear.html)
 
-### Gilbert Strang *Álgebra Linear e suas Aplicações*
+### Gilbert Strang, *Álgebra Linear e suas Aplicações*
 
 [[AMZN]](https://www.amazon.com.br/%C3%81lgebra-linear-aplica%C3%A7%C3%B5es-Gilbert-Strang/dp/8522107440)
+
+### Linear Algebra Done Right, *Sheldon Axler*
+
+**[[@BorelliLuan](https://twitter.com/BorelliLuan)]** Tão excelente quanto o livro é a [série de aulas baseadas no livro](https://www.youtube.com/watch?v=lkx2BJcnyxk&list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw) disponibilizada pelo próprio autor em seu canal do YouTube. Vale conferir. 
+
+[[AMZN]](https://www.amazon.com.br/Linear-Algebra-Right-Sheldon-Axler/dp/3319110799/)
 
 ## Análise
 
